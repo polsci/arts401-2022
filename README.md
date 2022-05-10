@@ -1,3 +1,4 @@
 # ARTS401 Class Example
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/polsci/arts401-2022/requirements/master)
+Launch this notebook in MyBinder!: 
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/polsci/arts401-2022/HEAD)
